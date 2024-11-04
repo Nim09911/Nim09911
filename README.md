@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Nim09911
 - :snake: I program in C, JS and Python!
-- 🥐 Learning Elasticsearch
 
 <p>
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
